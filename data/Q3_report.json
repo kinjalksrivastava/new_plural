@@ -1,0 +1,76 @@
+{
+  "simhash": {
+    "bits": 64,
+    "shingle": 3,
+    "tau_used": 10,
+    "sweep": {
+      "3": {
+        "candidate_pairs": 181,
+        "verified_duplicates": 4,
+        "battery_siblings_or_distinct": 177
+      },
+      "6": {
+        "candidate_pairs": 2017,
+        "verified_duplicates": 4,
+        "battery_siblings_or_distinct": 2013
+      },
+      "10": {
+        "candidate_pairs": 9667,
+        "verified_duplicates": 4,
+        "battery_siblings_or_distinct": 9663
+      },
+      "15": {
+        "candidate_pairs": 25583,
+        "verified_duplicates": 4,
+        "battery_siblings_or_distinct": 25579
+      }
+    }
+  },
+  "verification_rule": "true duplicate iff normalised question text AND options identical",
+  "removed_questions": [
+    "Q0187",
+    "Q0448",
+    "Q0544",
+    "Q1972"
+  ],
+  "final_rows": 42375,
+  "final_questions": 2482,
+  "final_units": 112,
+  "rows_by_source": {
+    "GAS": 25583,
+    "WVS": 16678,
+    "WVS6": 114
+  },
+  "questions_by_source": {
+    "GAS": 2128,
+    "WVS": 352,
+    "WVS6": 2
+  },
+  "expansion_rows": 114,
+  "none_questions": 9,
+  "questions_per_value": {
+    "Self-Direction": 137,
+    "Stimulation": 41,
+    "Hedonism": 29,
+    "Achievement": 191,
+    "Power": 1492,
+    "Security": 2018,
+    "Conformity": 202,
+    "Tradition": 358,
+    "Benevolence": 652,
+    "Universalism": 1381
+  },
+  "rows_per_value": {
+    "Self-Direction": 3698,
+    "Stimulation": 1113,
+    "Hedonism": 1023,
+    "Achievement": 3655,
+    "Power": 19255,
+    "Security": 32000,
+    "Conformity": 6065,
+    "Tradition": 7230,
+    "Benevolence": 11905,
+    "Universalism": 25243
+  },
+  "mean_labels_per_question": 2.619
+}

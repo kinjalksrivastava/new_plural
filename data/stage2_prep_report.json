@@ -1,0 +1,119 @@
+{
+  "rows": 42375,
+  "rows_structural_zero_excluded": 60,
+  "structural_zero_detail": [
+    {
+      "country": "Australia",
+      "option": "Agree strongly",
+      "n_rows": 4
+    },
+    {
+      "country": "Australia",
+      "option": "Disagree strongly",
+      "n_rows": 4
+    },
+    {
+      "country": "Brazil",
+      "option": "Agree strongly",
+      "n_rows": 4
+    },
+    {
+      "country": "Brazil",
+      "option": "Disagree strongly",
+      "n_rows": 4
+    },
+    {
+      "country": "Netherlands",
+      "option": "Hard to say",
+      "n_rows": 8
+    },
+    {
+      "country": "France",
+      "option": "Depends on the situation (VOL)",
+      "n_rows": 7
+    },
+    {
+      "country": "Venezuela",
+      "option": "2",
+      "n_rows": 6
+    },
+    {
+      "country": "Venezuela",
+      "option": "4",
+      "n_rows": 6
+    },
+    {
+      "country": "Venezuela",
+      "option": "2",
+      "n_rows": 13
+    },
+    {
+      "country": "Venezuela",
+      "option": "4",
+      "n_rows": 13
+    },
+    {
+      "country": "Venezuela",
+      "option": "6",
+      "n_rows": 13
+    },
+    {
+      "country": "Venezuela",
+      "option": "7",
+      "n_rows": 13
+    },
+    {
+      "country": "Lebanon",
+      "option": "Not a problem at all",
+      "n_rows": 10
+    },
+    {
+      "country": "France",
+      "option": "Both good and bad (VOL)",
+      "n_rows": 4
+    },
+    {
+      "country": "Spain",
+      "option": "Both good and bad (VOL)",
+      "n_rows": 4
+    }
+  ],
+  "countries_per_region": {
+    "Unassigned": 47,
+    "West European": 14,
+    "African & Middle Eastern": 11,
+    "East-Central & Baltic European": 9,
+    "Latin American": 8,
+    "Orthodox East European": 7,
+    "Confucian-influenced": 6,
+    "English-speaking": 5,
+    "South & Southeast Asian": 5
+  },
+  "row_share_per_region": {
+    "Unassigned": 0.2823,
+    "West European": 0.1473,
+    "African & Middle Eastern": 0.1108,
+    "Latin American": 0.107,
+    "English-speaking": 0.0881,
+    "East-Central & Baltic European": 0.0712,
+    "Confucian-influenced": 0.0665,
+    "South & Southeast Asian": 0.0662,
+    "Orthodox East European": 0.0606
+  },
+  "countries_with_orientation_scores": 68,
+  "row_share_with_orientation_scores": 0.7658,
+  "pilot_questions": 62,
+  "pilot_rows": 1999,
+  "pilot_rows_per_value": {
+    "Self-Direction": 479,
+    "Stimulation": 408,
+    "Hedonism": 339,
+    "Achievement": 191,
+    "Power": 357,
+    "Security": 1148,
+    "Conformity": 523,
+    "Tradition": 621,
+    "Benevolence": 755,
+    "Universalism": 771
+  }
+}

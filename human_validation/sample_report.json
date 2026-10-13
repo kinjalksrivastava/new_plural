@@ -1,0 +1,35 @@
+{
+  "n_sample": 150,
+  "seed": 42,
+  "min_per_value": 15,
+  "classifier_model": "meta-llama/llama-3.3-70b-instruct",
+  "by_source": {
+    "GAS": 119,
+    "WVS": 31
+  },
+  "no_value": 0,
+  "classifier_yes_in_sample": {
+    "Self-Direction": 22,
+    "Stimulation": 17,
+    "Hedonism": 16,
+    "Achievement": 25,
+    "Power": 72,
+    "Security": 106,
+    "Conformity": 23,
+    "Tradition": 32,
+    "Benevolence": 34,
+    "Universalism": 65
+  },
+  "classifier_yes_in_corpus": {
+    "Self-Direction": 137,
+    "Stimulation": 41,
+    "Hedonism": 29,
+    "Achievement": 191,
+    "Power": 1492,
+    "Security": 2018,
+    "Conformity": 202,
+    "Tradition": 358,
+    "Benevolence": 652,
+    "Universalism": 1381
+  }
+}

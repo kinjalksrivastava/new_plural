@@ -1,0 +1,114 @@
+{
+  "n_questions": 150,
+  "n_decisions": 1500,
+  "alpha_AB_all_decisions": 0.6480301998936595,
+  "alpha_AB_mean_over_values": 0.5482198109914306,
+  "agreement_AB_all_decisions": 0.9233333333333333,
+  "kappa_A_model_all_decisions": 0.49506462112617805,
+  "kappa_B_model_all_decisions": 0.41316473917524066,
+  "kappa_A_model_mean_over_values": 0.4292810253430077,
+  "kappa_B_model_mean_over_values": 0.38518001189140516,
+  "labels_both_annotators": 129,
+  "share_of_those_also_model": 0.9302325581395349,
+  "model_labels_with_at_least_one_annotator": 0.5048543689320388,
+  "model_labels": 412,
+  "model_labels_with_neither_annotator": 204,
+  "model_no_when_both_annotators_no": 0.8375796178343949,
+  "values_per_question": {
+    "A": 1.3466666666666667,
+    "B": 1.14,
+    "model": 2.7466666666666666
+  },
+  "per_value": {
+    "Self-Direction": {
+      "yes_A": 19,
+      "yes_B": 19,
+      "yes_model": 22,
+      "agreement_AB": 0.96,
+      "alpha_AB": 0.8198071514664524,
+      "kappa_A_model": 0.689499435453519,
+      "kappa_B_model": 0.689499435453519
+    },
+    "Stimulation": {
+      "yes_A": 2,
+      "yes_B": 1,
+      "yes_model": 17,
+      "agreement_AB": 0.9933333333333333,
+      "alpha_AB": 0.6644219977553311,
+      "kappa_A_model": 0.19122933141624676,
+      "kappa_B_model": 0.09977494373593447
+    },
+    "Hedonism": {
+      "yes_A": 9,
+      "yes_B": 10,
+      "yes_model": 16,
+      "agreement_AB": 0.9666666666666667,
+      "alpha_AB": 0.7199850159205844,
+      "kappa_A_model": 0.5233968804159448,
+      "kappa_B_model": 0.49720670391061506
+    },
+    "Achievement": {
+      "yes_A": 9,
+      "yes_B": 15,
+      "yes_model": 25,
+      "agreement_AB": 0.9066666666666666,
+      "alpha_AB": 0.36805555555555547,
+      "kappa_A_model": 0.3548387096774195,
+      "kappa_B_model": 0.5428571428571427
+    },
+    "Power": {
+      "yes_A": 26,
+      "yes_B": 9,
+      "yes_model": 72,
+      "agreement_AB": 0.86,
+      "alpha_AB": 0.32301886792452816,
+      "kappa_A_model": 0.2606790799561884,
+      "kappa_B_model": 0.10171365395245978
+    },
+    "Security": {
+      "yes_A": 56,
+      "yes_B": 48,
+      "yes_model": 106,
+      "agreement_AB": 0.88,
+      "alpha_AB": 0.7359693877551021,
+      "kappa_A_model": 0.34824589636305114,
+      "kappa_B_model": 0.32683379758588665
+    },
+    "Conformity": {
+      "yes_A": 12,
+      "yes_B": 16,
+      "yes_model": 23,
+      "agreement_AB": 0.92,
+      "alpha_AB": 0.5288865546218487,
+      "kappa_A_model": 0.5849297573435503,
+      "kappa_B_model": 0.3253813062182245
+    },
+    "Tradition": {
+      "yes_A": 22,
+      "yes_B": 19,
+      "yes_model": 32,
+      "agreement_AB": 0.94,
+      "alpha_AB": 0.7465863075619172,
+      "kappa_A_model": 0.7310221159593546,
+      "kappa_B_model": 0.6969225986944357
+    },
+    "Benevolence": {
+      "yes_A": 1,
+      "yes_B": 5,
+      "yes_model": 34,
+      "agreement_AB": 0.96,
+      "alpha_AB": -0.017006802721088565,
+      "kappa_A_model": 0.04477035893477443,
+      "kappa_B_model": 0.21052631578947373
+    },
+    "Universalism": {
+      "yes_A": 46,
+      "yes_B": 29,
+      "yes_model": 65,
+      "agreement_AB": 0.8466666666666667,
+      "alpha_AB": 0.5924740740740742,
+      "kappa_A_model": 0.5641986879100281,
+      "kappa_B_model": 0.36108422071636015
+    }
+  }
+}

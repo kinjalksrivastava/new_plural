@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+# raw survey files are downloaded by the user, not redistributed here
+data/raw/global_opinions.csv
+data/raw/wvs6/
+data/raw/naturalearth/
+# uncompressed logs (see predictions/)
+outputs/

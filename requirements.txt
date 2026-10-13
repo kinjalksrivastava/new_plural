@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+tqdm>=4.65
+# Stage I classifier (OpenRouter, async)
+httpx>=0.27
+# Stage II raters (later)
+aiohttp>=3.9

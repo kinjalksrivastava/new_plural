@@ -1,0 +1,108 @@
+{
+  "wvs6_file_sha256": "a302c05a2792e82f54e32e0ae20ac8fa4e8cf21a72282fb2af962dd86a602146",
+  "low_resource_rule": "< 50 unique questions in Q1",
+  "q1_questions_per_value": {
+    "Self-Direction": 137,
+    "Stimulation": 40,
+    "Hedonism": 28,
+    "Achievement": 191,
+    "Power": 1496,
+    "Security": 2022,
+    "Conformity": 202,
+    "Tradition": 358,
+    "Benevolence": 652,
+    "Universalism": 1385
+  },
+  "low_resource_values": [
+    "Stimulation",
+    "Hedonism"
+  ],
+  "items_added": {
+    "WVS6_V73": "Hedonism",
+    "WVS6_V76": "Stimulation"
+  },
+  "expansion_rows": 114,
+  "expansion_countries_per_item": {
+    "WVS6_V73": 57,
+    "WVS6_V76": 57
+  },
+  "expansion_new_countries": [
+    "Algeria",
+    "Haiti",
+    "Rwanda",
+    "Trinidad and Tobago",
+    "Yemen"
+  ],
+  "median_respondents_per_country": 1238.0,
+  "excluded_countries_nonstandard_scale": {
+    "IND": "non-standard response scale (codes never used: [2, 4])",
+    "QAT": "non-standard response scale (codes never used: [4])",
+    "RUS": "non-standard response scale (codes never used: [5, 6])"
+  },
+  "coverage_skips": {
+    "V73": {
+      "IND": "excluded: non-standard response scale (codes never used: [2, 4])",
+      "QAT": "excluded: non-standard response scale (codes never used: [4])",
+      "RUS": "excluded: non-standard response scale (codes never used: [5, 6])"
+    },
+    "V76": {
+      "IND": "excluded: non-standard response scale (codes never used: [2, 4])",
+      "QAT": "excluded: non-standard response scale (codes never used: [4])",
+      "RUS": "excluded: non-standard response scale (codes never used: [5, 6])"
+    }
+  },
+  "dedup_check": {
+    "WVS6_V73": {
+      "exact_match": false,
+      "max_jaccard": 0.311,
+      "closest_existing": "In your opinion, how important is it for Egypt to have a good relationship with Israel - very important, somewhat important, not too important, or not important"
+    },
+    "WVS6_V76": {
+      "exact_match": false,
+      "max_jaccard": 0.298,
+      "closest_existing": "As I read each one, please tell me if you think it is a very important, somewhat important, not too important or not at all an important reason why many people "
+    }
+  },
+  "classifier_check": {
+    "WVS6_V73": {
+      "designed": "Hedonism",
+      "classifier": [
+        "Hedonism"
+      ],
+      "designed_value_detected": true
+    },
+    "WVS6_V76": {
+      "designed": "Stimulation",
+      "classifier": [
+        "Stimulation"
+      ],
+      "designed_value_detected": true
+    }
+  },
+  "q2_rows": 42386,
+  "q2_questions": 2486,
+  "q2_questions_per_value": {
+    "Self-Direction": 137,
+    "Stimulation": 41,
+    "Hedonism": 29,
+    "Achievement": 191,
+    "Power": 1496,
+    "Security": 2022,
+    "Conformity": 202,
+    "Tradition": 358,
+    "Benevolence": 652,
+    "Universalism": 1385
+  },
+  "q2_rows_per_value": {
+    "Self-Direction": 3698,
+    "Stimulation": 1113,
+    "Hedonism": 1023,
+    "Achievement": 3655,
+    "Power": 19266,
+    "Security": 32011,
+    "Conformity": 6065,
+    "Tradition": 7230,
+    "Benevolence": 11905,
+    "Universalism": 25254
+  }
+}

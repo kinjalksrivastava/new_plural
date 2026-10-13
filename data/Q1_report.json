@@ -1,0 +1,51 @@
+{
+  "classifier": "meta-llama/llama-3.3-70b-instruct",
+  "provider_config": {
+    "order": [
+      "coreweave"
+    ],
+    "quantizations": [
+      "fp16"
+    ],
+    "allow_fallbacks": false,
+    "require_parameters": true
+  },
+  "providers_used": {
+    "CoreWeave": 2484
+  },
+  "protocol": "binary per-value yes/no, multi-label (Kiesel et al., 2022)",
+  "n_questions": 2484,
+  "n_classified_ok": 2484,
+  "n_failed": 0,
+  "n_needed_repair": 5,
+  "n_none": 9,
+  "share_multilabel": 0.9018,
+  "mean_labels_per_question": 2.621,
+  "questions_per_value": {
+    "Self-Direction": 137,
+    "Stimulation": 40,
+    "Hedonism": 28,
+    "Achievement": 191,
+    "Power": 1496,
+    "Security": 2022,
+    "Conformity": 202,
+    "Tradition": 358,
+    "Benevolence": 652,
+    "Universalism": 1385
+  },
+  "rows_per_value": {
+    "Self-Direction": 3698,
+    "Stimulation": 1056,
+    "Hedonism": 966,
+    "Achievement": 3655,
+    "Power": 19266,
+    "Security": 32011,
+    "Conformity": 6065,
+    "Tradition": 7230,
+    "Benevolence": 11905,
+    "Universalism": 25254
+  },
+  "tokens_in": 1969203,
+  "tokens_out": 161643,
+  "cost_usd_reported": 1.5096
+}
